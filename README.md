@@ -2,7 +2,7 @@
 
 👀 I’m a Russian student interested in everything connected with programming languages, interpreters and compilers.
 
-🌱 I’m currently deeping my knowledge in C and writing interpreter by following [Crafing Interpreters by Bob Nystrom](https://craftinginterpreters.com/)
+🌱 I’m currently deeping my knowledge in Rust and writing interpreter by following [Crafing Interpreters by Bob Nystrom](https://craftinginterpreters.com/)
 
 📫 if you wish, you can reach me by my uni email: vsredkin[at]stud.kpfu.ru
 
